@@ -16,3 +16,6 @@ This project determines the accuracy of demographic history output using the mom
 ## Results
 
 ## Сonclusion
+
+## Links
+[GADMA](https://gadma.readthedocs.io/en/latest/)
