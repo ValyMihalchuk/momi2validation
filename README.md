@@ -13,6 +13,12 @@ This project determines the accuracy of demographic history output using the mom
 - Restore parameters using GADMA with momi2 engine
 - Compare the obtained parameters with the original ones
 
+## Methods
+- simulation via stdpopsim 0.1.1 : `stdpopsim DroMel ComeronCrossover_dm6 -c chr2L -o chr2L.ts -d OutOfAfrica_2L06 2 2` where chr2L.ts is output file, chr2L is chromosome,  DroMel, ComeronCrossover_dm6, OutOfAfrica_2L06 are info about species,  2 samples
+
+- GADMA ver 2 with momi engine `gadma -p params_file`, where params_file - file, in which contains momi mutation rate and sequence length, engine for simulations, custom demographic model from file.
+
+
 ## Results
 
 ## Сonclusion
