@@ -23,7 +23,23 @@ This project determines the accuracy of demographic history output using the mom
 
 ## Results
 
+![Visualization of the demographic history with reconstructed parameters for the whole genome](visualisation.jpg)
+
+Visualization of the demographic history with reconstructed parameters for the whole genome
+
+### 1 (first) chromosome:
+
+- Population size of Pongo pygmaeus increased slightly and Pongo abelii increased 1.5 times
+
+### Whole genome:
+
+- Population size of Pongo pygmaeus increased 1.5 times and Pongo abelii grew exponentially
+
+- The time parameter for both runs is almost half that of the original parameter
+
 ## Сonclusion
+
+The results for both runs are quite different. The pattern of population growth is better reflected in the parameters for the whole genome. This is due to more complete information about the development of populations due to the inclusion of all chromosomes in the analysis.
 
 ## Links
 - [GADMA documentation](https://gadma.readthedocs.io/en/latest/)
