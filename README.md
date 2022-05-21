@@ -23,7 +23,7 @@ This project determines the accuracy of demographic history output using the mom
 
 ## Results
 
-![Visualization of the demographic history with reconstructed parameters for the whole genome](visualisation.jpg)
+![Visualization of the demographic history with reconstructed parameters for the whole genome](unnamed.jpg)
 
 Visualization of the demographic history with reconstructed parameters for the whole genome
 
