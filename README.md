@@ -23,7 +23,7 @@ This project determines the accuracy of demographic history output using the mom
 
 ## Results
 
-<img src="unnamed.png" width="800" height ="500" />
+<img src="unnamed.png" width="500" height ="500" />
 Visualization of the demographic history with reconstructed parameters for the whole genome
 
 ### 1 (first) chromosome:
@@ -36,7 +36,7 @@ Visualization of the demographic history with reconstructed parameters for the w
 
 - The time parameter for both runs is almost half that of the original parameter
 
-<img src="table.png" width="1000" height ="500" />
+<img src="table.png" width="800" height ="500" />
 
 ## Сonclusion
 
