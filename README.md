@@ -36,6 +36,8 @@ Visualization of the demographic history with reconstructed parameters for the w
 
 - The time parameter for both runs is almost half that of the original parameter
 
+<img src="table.png" width="500" height ="500" />
+
 ## Сonclusion
 
 The results for both runs are quite different. The pattern of population growth is better reflected in the parameters for the whole genome. This is due to more complete information about the development of populations due to the inclusion of all chromosomes in the analysis.
