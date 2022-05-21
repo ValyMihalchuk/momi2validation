@@ -1,0 +1,10 @@
+tsk_0	Bornean
+tsk_1	Bornean
+tsk_2	Bornean
+tsk_3	Bornean
+tsk_4	Bornean
+tsk_5	Sumatran
+tsk_6	Sumatran
+tsk_7	Sumatran
+tsk_8	Sumatran
+tsk_9	Sumatran
