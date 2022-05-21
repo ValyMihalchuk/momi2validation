@@ -12,3 +12,7 @@ This project determines the accuracy of demographic history output using the mom
 - Simulate genetic data for the selected history
 - Restore parameters using GADMA with momi2 engine
 - Compare the obtained parameters with the original ones
+
+## Results
+
+## Сonclusion
